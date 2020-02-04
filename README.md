@@ -72,3 +72,5 @@ Unix-style和Windows：简单说:windows<回车换行> （carriage return AND li
 链接：https://www.jianshu.com/p/414ccd423efc
 来源：简书
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+Git操作其实很简单，只需多加练习，在实际应用中逐渐领悟它的设计哲学。
